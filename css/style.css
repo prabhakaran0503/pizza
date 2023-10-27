@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.pizza-img{
+    width: 50%;
+    margin: auto;
+}
+.pizza-img button{
+    margin-left: 15rem;
+    margin-top: 10px;
+    padding: 10px;
+}
